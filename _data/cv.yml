@@ -9,7 +9,7 @@
       value: Korean, English
 
 - title: Academic Interests
-  type: nested_list
+  type: list #nested_list
   contents:
     - title: Affective Computing
       items:
@@ -21,7 +21,7 @@
         - Visual Disfluency Speech Recognition
 
 - title: Education
-  type: time_table
+  type: list_groups #time_table
   contents:
     - title: PhD
       institution: Sungkyunkwan University, Seoul, South Korea
