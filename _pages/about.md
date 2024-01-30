@@ -1,26 +1,28 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D Candidate @ SKKU🍀, Seoul / Visiting Scholar @ USF🤘, Tampa
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpeg
+  image_circular: true #false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> NEC 200B, USF </p>
+    <p> Tampa, Florida, USA</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello!😊 I am a PhD student in the Dept. of Applied AI at the Sungkyunkwan University (SKKU) and a member of [Data Science and Artificial Intelligence Lab (DSAIL)](https://sites.google.com/view/datasciencelab), advised by Prof. Jinyoung Han. Currently, I am a visiting scholar in the CS & Engineering at the University of South Florida (USF), advised by Prof. Seungbae Kim.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests mainly revolve around NLP, Multi-Modal Learning, and Affective Computing. I am excited about developing accessible AI healthcare systems to address tangible real-world challenges. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am enthusiastic for collaborating with experts across diverse domains. 
+Feel free to reach out with collaboration proposals or for discussions anytime.
+
+For more details about me, please check my [CV](/cv/).:sparkles:
