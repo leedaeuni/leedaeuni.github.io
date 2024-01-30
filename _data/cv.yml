@@ -1,88 +1,86 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Ellen Da-eun Lee
-    - name: Contact
-      value: delee12@skku.edu / daeunlee@usf.edu
-    - name: Languages
-      value: Korean, English
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Ellen Da-eun Lee
+#     - name: Contact
+#       value: delee12@skku.edu / daeunlee@usf.edu
+#     - name: Languages
+#       value: Korean, English
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Affective Computing
-      items:
-        - Mental Health Status Detection
-        - Language Disorder Detection
-    - title: Multi-Modal Learning
-      items:
-        - Explainable Large language model
-        - Visual Disfluency Speech Recognition
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Affective Computing
+#       items:
+#         - Mental Health Status Detection
+#         - Language Disorder Detection
+#     - title: Multi-Modal Learning
+#       items:
+#         - Explainable Large language model
+#         - Visual Disfluency Speech Recognition
 
-- title: Academic Interestss
-  type: list_groups
-  contents:
-    - category: ggg
-      icon: "fa-solid fa-laptop"
-      name: name
-      level: level
-      school: school
-    - category: ggg
-      icon: "fa-solid fa-laptop"
-      name: name
-      level: level
-      school: school
+# - title: Academic Interestss
+#   type: list_groups
+#   contents:
+#     - category: ggg
+#        icon: "fa-solid fa-laptop"
+#       - items: 
+#         name: name
+#     - category: ggg
+#       icon: "fa-solid fa-laptop"
+#       - items: 
+#         name: name
 
-- title: Education
-  type: time_table 
-  contents:
-    - title: Ph.D. Candidate
-      institution: Sungkyunkwan University, Seoul, South Korea
-      year: 2020 - Now
-      description:
-        - Dept. of Applied AI
-        - "Advisor: Prof. Jinyoung Han"
+# - title: Education
+#   type: time_table 
+#   contents:
+#     - title: Ph.D. Candidate
+#       institution: Sungkyunkwan University, Seoul, South Korea
+#       year: 2020 - Now
+#       description:
+#         - Dept. of Applied AI
+#         - "Advisor: Prof. Jinyoung Han"
 
-    - title: B.A.
-      institution: Sookmyung Women's University, Seoul, South Korea
-      year: 2012 - 2017
-      description:
-        - Social Psychology
+#     - title: B.A.
+#       institution: Sookmyung Women's University, Seoul, South Korea
+#       year: 2012 - 2017
+#       description:
+#         - Social Psychology
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Visiting Scholar
-      institution: University of South Florida @ Tampa, FL, USA
-      year: Oct. 2023 - Mar. 2024
-      description:
-        - Dept. of Computer Science & Engineering 
-        - "Advisor: Prof. Seungbae Kim"
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Visiting Scholar
+#       institution: University of South Florida @ Tampa, FL, USA
+#       year: Oct. 2023 - Mar. 2024
+#       description:
+#         - Dept. of Computer Science & Engineering 
+#         - "Advisor: Prof. Seungbae Kim"
 
-    - title: Research Intern
-      institution: RaonData, Seoul, South Korea
-      year: Aug. 2022 - Sep. 2022
+#     - title: Research Intern
+#       institution: RaonData, Seoul, South Korea
+#       year: Aug. 2022 - Sep. 2022
 
-    - title: Data Scientist
-      institution: Korea Psychological Autopsy Center, Seoul, South Korea
-      year: Apr. 2018 - Aug. 2019
-      description:
+#     - title: Data Scientist
+#       institution: Korea Psychological Autopsy Center, Seoul, South Korea
+#       year: Apr. 2018 - Aug. 2019
+#       description:
 
-- title: Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
