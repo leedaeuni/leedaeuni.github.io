@@ -8,8 +8,29 @@
     - name: Languages
       value: Korean, English
 
+- title: test1
+  type: list
+  contents:
+    - aaa
+    - bbb
+    - ccc
+
+- title: test2
+  type: list_groups
+  contents:
+    - icon: fa-solid fa-location-dot
+    - category: ggg
+    - items: gd
+      name: name
+      level: level
+      school: school
+      time: 1993
+      link: https://github.com/alshedivat/al-folio
+      linkname: hhh
+
+
 - title: Academic Interests
-  type: list #nested_list
+  type: nested_list
   contents:
     - title: Affective Computing
       items:
@@ -21,7 +42,7 @@
         - Visual Disfluency Speech Recognition
 
 - title: Education
-  type: list_groups #time_table
+  type: time_table 
   contents:
     - title: PhD
       institution: Sungkyunkwan University, Seoul, South Korea
