@@ -8,25 +8,20 @@
     - name: Languages
       value: Korean, English
 
-- title: test1
-  type: list
-  contents:
-    - aaa
-    - bbb
-    - ccc
-
-- title: test2
+- title: Academic Interests
   type: list_groups
   contents:
-    - icon: fa-solid fa-location-dot
     - category: ggg
-    - items: gd
-      name: name
-      level: level
-      school: school
-      time: 1993
-      link: https://github.com/alshedivat/al-folio
-      linkname: hhh
+      - items: gd
+        icon: "fa-solid fa-laptop"
+        name: name
+        level: level
+        school: school
+      - items: gddd
+        icon: "fa-solid fa-laptop"
+        name: name
+        level: level
+        school: school
 
 
 - title: Academic Interests
