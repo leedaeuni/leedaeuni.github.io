@@ -1,5 +1,5 @@
 <div class="card-item col">
-  <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
+  <a href="{% if project.url and project.url != '' %}{{ project.url | relative_url }}{% endif %}">
     <div class="card hoverable">
       <div class="row g-0">
         {% if project.img %}
