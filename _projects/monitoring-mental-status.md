@@ -5,6 +5,7 @@ description: using social media data
 img: /assets/img/projects_preview/p1_img.jpg
 importance: 1
 related_publications: true
+permalink: /projects/monitoring-mental-status
 ---
 
 ## Research Background
