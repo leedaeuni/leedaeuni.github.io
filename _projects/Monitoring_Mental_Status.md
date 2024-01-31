@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Monitoring Mental Status
+title: Monitoring Mental Health Status
 description: Using Social Media Data 
 img: /assets/img/projects_preview/p1_img.jpg
 importance: 1
