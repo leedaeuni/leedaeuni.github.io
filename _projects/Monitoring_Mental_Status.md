@@ -12,12 +12,12 @@ The global healthcare system faces significant challenges from mental health con
 
 Social media platforms provide an easily accessible and time-saving communication approach for individuals with mental disorders compared to face-to-face meetings with medical providers. Recently, machine learning (ML)-based mental health exploration using large-scale social media data has attracted significant attention {% cite kim2021machine %}.
 
-<img src="/assets/img/projects_preview/p1_socialmedia.png" width="100%" title="p1_socialmedia"/>
+<img src="/assets/img/projects_preview/p1_socialmedia.png" width="80%" title="p1_socialmedia"/>
 
 ## Research Goal
 We aims to help to establish a prevention system for early detection and immediate intervention of individuals with high-risk mental status for clinical support using social media data. This will enable us to reduce mental health-related social costs and promote public health.
 
-<img src="/assets/img/projects_preview/p1_frame.png" width="100%" title="p1_frame"/>
+<img src="/assets/img/projects_preview/p1_frame.png" width="80%" title="p1_frame"/>
 
 
 ## Approach
@@ -37,3 +37,7 @@ We aims to help to establish a prevention system for early detection and immedia
 - __Using Audiovisual Features for Depression Detection__ {% cite min2023detecting %}:
 
     We collected vlogs from YouTube and annotated them into depression and non-depression. Based on analysis of  the statistical differences between depression and non-depression vlogs, we build a depression detection model that learns both audio and visual features, achieving high accuracy.
+
+
+
+    ---
