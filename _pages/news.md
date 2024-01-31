@@ -7,10 +7,3 @@ permalink: /news/
 ---
 
 {% include news_format.liquid %}
-
-
-
-
-
-
-<!--  -->
