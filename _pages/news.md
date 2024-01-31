@@ -23,7 +23,8 @@ permalink: /news/
           {% assign news_limit = news_size %}
         {% endif %}
 
-        {% include _news/announcement_1 copy.md %}
+        {% include "_news/announcement_1 copy.md" %}
+
 
       </table>
     </div>
