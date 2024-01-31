@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Monitoring Mental Health
+title: Monitoring mental health
 description: using social media data 
 img: assets/img/projects/p1_img.jpg
 importance: 1
 related_publications: true
-permalink: /Monitoring_Mental_Health/
 ---
 
 # Research Background
