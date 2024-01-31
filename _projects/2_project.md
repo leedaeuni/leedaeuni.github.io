@@ -4,7 +4,6 @@ title: project 2
 description: using multi-modality
 img: assets/img/publication_preview/jmir.png
 importance: 2
-category: Research
 related_publications: false
 ---
 

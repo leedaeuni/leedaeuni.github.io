@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Mental status monitoring system
-description: using social media data #a project with a background image
-img: assets/img/publication_preview/jmir.png
+description: using social media data 
+img: assets/img/publication_preview/emnlp23.png
 importance: 1
-category: Research
 related_publications: false
 ---
+
 
 # Please! 
 
