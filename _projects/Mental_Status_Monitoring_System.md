@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mental Status Monitoring System
+title: Mental status monitoring system
 description: using social media data #a project with a background image
 img: assets/img/publication_preview/jmir.png
 importance: 1
