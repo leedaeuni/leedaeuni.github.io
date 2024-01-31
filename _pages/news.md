@@ -23,7 +23,7 @@ permalink: /news/
           {% assign news_limit = news_size %}
         {% endif %}
 
-        {% include "_news/news_format.md" %}
+        {% include news_format.liquid %}
 
 
       </table>
