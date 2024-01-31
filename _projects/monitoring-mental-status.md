@@ -23,10 +23,5 @@ We aims to help to establish a prevention system for early detection and immedia
 ## Related Publications
 
 hello 
-<!-- {% cite lee2020cross %}
-df {% cite kim2021machine %}
-{% cite lee2022detecting %}
-{% cite lee2023towards %}
-{% cite min2023detecting %} -->
 
 ## Dataset & Code
