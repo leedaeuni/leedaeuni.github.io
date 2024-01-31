@@ -21,14 +21,19 @@ We aims to help to establish a prevention system for early detection and immedia
 
 
 ## Approach
-- Using Domain Knowledge for Identifying Suicidality:
-    - Graph Neural Network for Capturing Suicide-related Context {% cite lee2022detecting %}: 
-      Using a suicide dictionary created by mental health experts is one of the effective ways to detect suicidal ideation. We apply GNNs to grasp how the word can be associated with the suicide-related context by learning the relations between a given post and words.
+- __Graph Neural Network with Domain Knowledge for Capturing Suicide-related Context__ {% cite lee2022detecting %}: 
+
+    Using a suicide dictionary created by mental health experts is one of the effective ways to detect suicidal ideation. We apply GNNs to grasp how the word can be associated with the suicide-related context by learning the relations between a given post and words.
       
-    - Cross-lingual Suicide Risk Detection for Low-Resource Language {% cite lee2020cross %}:
-      To utilize the existing suicide dictionaries developed for other languages (i.e., English and Chinese) in word embedding, our model translates a post written in the target language (i.e., Korean) into English and Chinese, and then uses the separate suicidal-oriented word embeddings developed for English and Chinese, respectively. By applying an ensemble approach for different languages, the model achieves high accuracy, over 87% .
+- __Cross-lingual Suicide Risk Detection for Low-Resource Language__ {% cite lee2020cross %}:
+
+    To utilize the existing suicide dictionaries developed for other languages (i.e., English and Chinese) in word embedding, our model translates a post written in the target language (i.e., Korean) into English and Chinese, and then uses the separate suicidal-oriented word embeddings developed for English and Chinese, respectively. By applying an ensemble approach for different languages, the model achieves high accuracy.
+
+- __Temporal Bipolar symptom-aware attention mechanism__ {% cite lee2023towards %}:
+
+  We build a novel BD dataset clinically validated by psychiatrists, including 14 years of posts on bipolar-related subreddits written by 818 BD patients, along with the annotations of future suicidality and BD symptoms. We also suggest a temporal symptom-aware attention mechanism to determine which symptoms are the most influential for predicting future suicidality over time through a sequence of BD posts.
 
 
-> Mental Disorder Detection
-{% cite lee2023towards %}
-{% cite min2023detecting %}
+- __Using Audiovisual Features for Depression Detection__ {% cite min2023detecting %}:
+
+    We collected vlogs from YouTube and annotated them into depression and non-depression. Based on analysis of  the statistical differences between depression and non-depression vlogs, we build a depression detection model that learns both audio and visual features, achieving high accuracy.
