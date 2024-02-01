@@ -7,7 +7,7 @@
 >
   <table class="table table-sm table-borderless">
 
-    {% for announcement in site.news.news_list %}
+    {% for announcement in site.data.news_list %}
       <tr>
         <th scope="row" style="width: 20%">{{ announcement.date | date: '%b %d, %Y' }}</th>
         <td>{{ announcement.content | remove: '<p>' | remove: '</p>' | emojify }}</td>
