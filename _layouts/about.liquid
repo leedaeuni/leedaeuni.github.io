@@ -45,7 +45,7 @@ layout: default
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
-      {% include news_format.liquid limit=true | slice: 0, 3 %}
+      {% include news_format.liquid limit=true %}
     {% endif %}
 
     <!-- Latest posts -->
