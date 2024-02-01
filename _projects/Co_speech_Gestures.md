@@ -3,7 +3,7 @@ layout: page
 title: Co-speech Gestures in Language Disorder
 description: Aphasia, MCI, ASR
 img: /assets/img/projects_preview/p2_img.jpg
-importance: 1
+importance: 2
 related_publications: true
 ---
 
@@ -14,7 +14,7 @@ However, previous studies simply concatenated features to identify language impa
 Individuals with language disorder often rely on non-verbal communication techniques, especially gestures, as an additional communication tool due to difficulties in word retrieval and language errors.
 Therefore, the same word can be interpreted differently depending on the accompanying gestures for different language disorder symptoms. Hence, utilizing both speech (i.e., linguistic and acoustic) and gesture (i.e., visual) information is crucial in understanding language disorder's characteristics.
 
-<img src="/assets/img/projects_preview/p1_socialmedia.png" width="80%" title="p2_ex"/>
+<img src="/assets/img/projects_preview/p2_ex.png" width="80%" title="p2_ex"/>
 
 ## Research Goal
 We aims to establish healthcare systems based on understanding language disorder's characteristics by utilizing both speech (i.e., linguistic and acoustic) and gesture (i.e., visual) information.
