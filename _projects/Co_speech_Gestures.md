@@ -32,6 +32,3 @@ We aims to establish healthcare systems based on understanding language disorder
 - __Analysis for Multi-modality for MCI Detection__ _(~ing)_:
 
     I am actively involved in this project related to mild cognitive impairment detection with domain experts, such as pathologists and healthcare practitioners at the University of South Florida (USF).
-
-    
-  <br>
