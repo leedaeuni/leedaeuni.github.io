@@ -6,4 +6,4 @@ nav_order: 4
 permalink: /news/
 ---
 
-{% include news.liquid %}
+{% include news_format.liquid %}
