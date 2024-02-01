@@ -34,10 +34,4 @@ We aims to help to establish a prevention system for early detection and immedia
   We build a novel BD dataset clinically validated by psychiatrists, including 14 years of posts on bipolar-related subreddits written by 818 BD patients, along with the annotations of future suicidality and BD symptoms. We also suggest a temporal symptom-aware attention mechanism to determine which symptoms are the most influential for predicting future suicidality over time through a sequence of BD posts.
 
 
-- __Using Audiovisual Features for Depression Detection__ {% cite min2023detecting %}:
-
-    We collected vlogs from YouTube and annotated them into depression and non-depression. Based on analysis of  the statistical differences between depression and non-depression vlogs, we build a depression detection model that learns both audio and visual features, achieving high accuracy.
-
-
-
     ---
