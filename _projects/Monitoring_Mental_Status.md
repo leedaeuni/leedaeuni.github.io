@@ -21,6 +21,10 @@ We aims to help to establish a prevention system for early detection and immedia
 
 
 ## Approach
+- __Using Large Language Model for Explainable Suicidality Prediction__ {% cite jeon2024dual %}: 
+
+    In order to enhance interpretability of the suicidality prediction models, we propose a dual-prompting approach: (i) Knowledge-aware evidence extraction by leveraging the expert identity and a suicide dictionary with a mental health-specific LLM; and (ii) Evidence summarization by employing an LLM-based consistency evaluator. Comprehensive experiments demonstrate the effectiveness of combining domain-specific information.
+
 - __Graph Neural Network with Domain Knowledge for Capturing Suicide-related Context__ {% cite lee2022detecting %}: 
 
     Using a suicide dictionary created by mental health experts is one of the effective ways to detect suicidal ideation. We apply GNNs to grasp how the word can be associated with the suicide-related context by learning the relations between a given post and words.
