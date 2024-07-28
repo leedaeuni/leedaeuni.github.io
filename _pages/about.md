@@ -2,15 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D Candidate @ SKKU🍀, Seoul / Visiting Scholar @ USF🤘, Tampa
+subtitle: Postdoctoral Fellow
 
 profile:
   align: right
   image: prof_pic.jpeg
   image_circular: true #false # crops the image to make it circular
   more_info: >
-    <p> NEC 200B, USF </p>
-    <p> Tampa, Florida, USA</p>
+    <p> SKKU </p>
+    <p> Seoul, Republic of Korea</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
