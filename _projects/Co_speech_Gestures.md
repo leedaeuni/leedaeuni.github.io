@@ -31,6 +31,5 @@ We aims to establish healthcare systems based on understanding language disorder
 
 - __Analysis for Multi-modality for MCI Detection__ {% cite barrera2024mci %}:
 
-    I am actively involved in this project related to mild cognitive impairment detection with domain experts, such as pathologists and healthcare practitioners at the University of South Florida (USF).
-    To understand the common characteristics of people with MCI speaking different languages, we propose a multilingual MCI detection model using multimodal approaches that analyze both acoustic and linguistic features. It outperforms existing machine learning models by identifying universal MCI indicators across languages.
+    I am actively involved in this project related to mild cognitive impairment detection with domain experts, such as pathologists and healthcare practitioners at the University of South Florida (USF). To understand the common characteristics of people with MCI speaking different languages, we propose a multilingual MCI detection model using multimodal approaches that analyze both acoustic and linguistic features. It outperforms existing machine learning models by identifying universal MCI indicators across languages.
 
