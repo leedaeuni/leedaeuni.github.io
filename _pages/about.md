@@ -18,10 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello!😊 I am a PhD student in the Dept. of Applied AI at the Sungkyunkwan University (SKKU) and a member of [Data Science and Artificial Intelligence Lab (DSAIL)](https://sites.google.com/view/datasciencelab), advised by Prof. Jinyoung Han. Currently, I am a visiting scholar in the CS & Engineering at the University of South Florida (USF), advised by Prof. Seungbae Kim.
+Hello!😊 I am Daeun Lee and I go by Ellen. I received the Ph.D. degree in Applied Artificial Intelligence from Sungkyunkwan University (SKKU), Seoul, Republic of Korea.
+Currently, I am a Postdoctoral Fellow at the [Data Science and Artificial Intelligence Lab (DSAIL)](https://sites.google.com/view/datasciencelab) in SKKU with Prof. Jinyoung Han.
 
 My research interests mainly revolve around NLP, Multi-Modal Learning, and Affective Computing. I am excited about developing accessible AI healthcare systems to address tangible real-world challenges. 
-
 I am enthusiastic for collaborating with experts across diverse domains. 
 Feel free to reach out with collaboration proposals or for discussions anytime.
 
