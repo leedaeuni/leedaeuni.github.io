@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello!😊 I am Daeun Lee and I go by Ellen. I received the Ph.D. degree in Applied Artificial Intelligence from Sungkyunkwan University (SKKU), Seoul, Republic of Korea.
-Currently, I am a Postdoctoral Fellow at the [Data Science and Artificial Intelligence Lab (DSAIL)](https://sites.google.com/view/datasciencelab) in SKKU with Prof. Jinyoung Han.
+Hello!😊 I am Daeun Lee, and I go by Ellen. I received my Ph.D. in Applied Artificial Intelligence from Sungkyunkwan University (SKKU) in Seoul, Republic of Korea, in June 2024.
+Currently, I am a Postdoctoral Fellow at the [Data Science and Artificial Intelligence Lab (DSAIL)](https://sites.google.com/view/datasciencelab) with Prof. Jinyoung Han and an Adjunct Professor at SKKU.
 
 My research interests mainly revolve around NLP, Multi-Modal Learning, and Affective Computing. I am excited about developing accessible AI healthcare systems to address tangible real-world challenges. 
 I am enthusiastic for collaborating with experts across diverse domains. 
